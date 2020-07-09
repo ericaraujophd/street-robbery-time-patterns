@@ -1,5 +1,5 @@
 # Crime Data Analysis in Lavras (Brazil)
-#### Dr. Eric Fernandes de Mello Araújo
+#### Eric Fernandes de Mello Araújo & Charlotte Gerritsen
 ###### Universidade Federal de Lavras (Brazil)
 ###### Vrije Universiteit Amsterdam (The Netherlands)
 ---
