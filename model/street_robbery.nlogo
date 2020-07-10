@@ -849,7 +849,7 @@ Future additions
 
 This is an initial model for offenders behaviour trying to commit street robberies in a map of Lavras (Brazil). The model is based on routine activity theory and is composed of two types of agents: citizens and offenders.
 
-Citizens are targets for offenders motivated enough to act as a street robbery.
+Citizens are targets for offenders motivated enough to act as a street robbery. The aim of the model is to replicate the temporal aspects of crime in Lavras compared to empirical data provided by the Military Police of Minas Gerais (PMMG).
 
 ## HOW IT WORKS
 
