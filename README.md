@@ -4,7 +4,7 @@
 ###### Vrije Universiteit Amsterdam (The Netherlands)
 ---
 
-	This material is part of the Chapter 6 of the book "Agent-Based Modelling for Criminological Theory Testing and Development".
+*This material is part of the Chapter 6 of the book "Agent-Based Modelling for Criminological Theory Testing and Development".*
 
 ## WHAT IS IT?
 
